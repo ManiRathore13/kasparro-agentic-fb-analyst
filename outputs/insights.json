@@ -1,0 +1,40 @@
+{
+    "Women Cotton Classics": [
+        {
+            "type": "roas_drop",
+            "message": "ROAS dropped from 85.55 to 0.00 (-100.0%). Possible conversion or targeting issue."
+        }
+    ],
+    "WOMEN | STUDIO SPORTS": [
+        {
+            "type": "roas_drop",
+            "message": "ROAS dropped from 113.46 to 4.49 (-96.0%). Possible conversion or targeting issue."
+        }
+    ],
+    "MEN Sign-ture Soft": [
+        {
+            "type": "roas_drop",
+            "message": "ROAS dropped from 17.09 to 0.79 (-95.4%). Possible conversion or targeting issue."
+        },
+        {
+            "type": "ctr_drop",
+            "message": "CTR dropped from 0.0169 to 0.0112. Likely creative fatigue or weaker engagement."
+        }
+    ],
+    "Men  Bold  Colors  Drop": [
+        {
+            "type": "roas_drop",
+            "message": "ROAS dropped from 2.72 to 0.20 (-92.8%). Possible conversion or targeting issue."
+        },
+        {
+            "type": "spend_cut",
+            "message": "Spend reduced by over 30%. Suggests scaling down or budget reallocation."
+        }
+    ],
+    "Wom n Fit & Lift": [
+        {
+            "type": "roas_drop",
+            "message": "ROAS dropped from 21.84 to 1.94 (-91.1%). Possible conversion or targeting issue."
+        }
+    ]
+}
