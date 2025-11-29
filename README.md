@@ -11,7 +11,6 @@ It follows the assignment guidelines for the Applied AI Engineer role at Kasparr
 	•	Creative message generation
 	•	Modular and reproducible workflow
 
-⸻
 
 1. Project Structure
 
@@ -41,7 +40,6 @@ kasparro_assignment/
 └─ run.py
 
 
-⸻
 
 2. Agent Workflow Overview
 
@@ -78,7 +76,6 @@ Generates clear hypotheses for each underperforming campaign.
 	•	Generates 2–3 improved ad creatives
 	•	Ensures tone and relevance
 
-⸻
 
 3. Outputs
 
@@ -111,8 +108,6 @@ Example:
 }
 
 
-⸻
-
 4. Running the Project
 
 Activate environment:
@@ -131,22 +126,9 @@ python step5_generate_hypotheses.py
 python step6_creatives.py
 
 
-⸻
 
 5. Requirements
 
-Place this in requirements.txt:
-
 pandas
 numpy
-
-
-⸻
-
-6. Notes
-	•	This project focuses on structured reasoning, not model training.
-	•	Most insights follow rule-based logic to maintain transparency.
-	•	LLM prompts (in /prompts) guide agent behaviour for future extension.
-
-⸻
 
